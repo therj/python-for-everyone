@@ -64,3 +64,7 @@
 
 ## Mini Challenges
 - [Number guessing game](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
+
+
+## In-depth resource
+- [Real Python](https://realpython.com/) - Understandable yet full.

@@ -1,0 +1,37 @@
+## Python Basics:
+[Beginner exercises](https://pythonbasics.org/exercises/)
+- Run Python programs
+- Variables
+- Strings
+- String replace
+- String find
+- String join
+- String split
+- Random Numbers
+- Keyboard Input
+- If statements
+- For Loops
+- While Loops
+- Functions
+- Lists
+- List Operations
+- Sorting List
+- Range function
+- Dictionary
+- Read / Write File
+- Nested Loops
+- Slices
+- Multiple Return
+- Scope
+- Time and Date
+- Try Except
+- **OOP Exercises**
+- Class
+- Getter and Setter
+- Modules
+- Inheritance
+- Static Method
+- Iterable
+- Classmethod
+- Multiple Inheritance
+-   

@@ -1,3 +1,9 @@
+## Solve challenges for practice - [edabit.com](https://edabit.com/challenges)
+
+## Hackerrank Python
+[Hackerrank Python](https://www.hackerrank.com/domains/python)
+- Intermediate and beyond
+
 ## Python Basics:
 [Beginner exercises](https://pythonbasics.org/exercises/)
 - Run Python programs

@@ -43,6 +43,10 @@
 
 
 ## Geeksforgeeks
+[Python Exercises, Practice Questions and Solutions](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+
+Multiple approaches and complete description
+
 - Python List Exercises
 - Python String Exercises
 - Python Tuple Exercises

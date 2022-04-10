@@ -18,10 +18,17 @@
       </details>
 
 
-1. Return the First Element in a List <details><summary>Examples</summary>
+1. Return the First Element in a List <details><summary>Example</summary>
     ```python
       get_first_value([1, 2, 3]) ➞ 1
       get_first_value([80, 5, 100]) ➞ 80
       get_first_value([-500, 0, 50]) ➞ -500
+    ```
+    </details>
+    
+1. Define two integer variables and print their sum. <details><summary>Hint</summary>
+    ```
+        sum = j + k
+        print(sum)
     ```
     </details>

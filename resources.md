@@ -40,4 +40,27 @@
 - Iterable
 - Classmethod
 - Multiple Inheritance
--   
+
+
+## Geeksforgeeks
+- Python List Exercises
+- Python String Exercises
+- Python Tuple Exercises
+- Python Dictionary Exercises
+- Python Set Exercises
+- Python Matrix Exercises
+- Python Functions Exercises
+- Python Lambda Exercises
+- Python Pattern printing Exercises
+- Python DateTime Exercises
+- Python OOPS Exercises
+- Python Regex Exercises
+- Python LinkedList Exercises
+- Python File Handling Exercises
+- Python OS Module Exercises
+- Python Web Scraping Exercises
+
+
+
+## Mini Challenges
+- [Number guessing game](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
